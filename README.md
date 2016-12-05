@@ -1,3 +1,3 @@
 # DiscreteMathematics
 
-离散实验题目= =
+绂绘暎瀹為獙棰樼洰= =
