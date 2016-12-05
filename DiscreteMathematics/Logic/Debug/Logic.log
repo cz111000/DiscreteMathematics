@@ -1,0 +1,9 @@
+﻿  Logic.cpp
+c:\users\橙子\documents\visual studio 2015\projects\discretemathematics\logic\logic.cpp(123): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\橙子\documents\visual studio 2015\projects\discretemathematics\logic\logic.cpp(274): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\橙子\documents\visual studio 2015\projects\discretemathematics\logic\logic.cpp(366): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\橙子\documents\visual studio 2015\projects\discretemathematics\logic\logic.cpp(107): note: 参见对正在编译的函数 模板 实例化“void logicalOperate<double,char>(Stack<double> &,Stack<char> &,std::string,std::string,int)”的引用
+c:\users\橙子\documents\visual studio 2015\projects\discretemathematics\logic\logic.cpp(377): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\橙子\documents\visual studio 2015\projects\discretemathematics\logic\logic.cpp(295): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\橙子\documents\visual studio 2015\projects\discretemathematics\logic\logic.cpp(111): note: 参见对正在编译的函数 模板 实例化“void judge<double,char>(Stack<double> &,Stack<char> &,std::string)”的引用
+  Logic.vcxproj -> c:\Users\橙子\Documents\Visual Studio 2015\Projects\DiscreteMathematics\Debug\4_Logic.exe
